@@ -1,0 +1,10 @@
+{
+    "dict": {
+        "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "uri": "https://www.dictionaryapi.com/api/v3/references/collegiate/json/[TERM]?key=[KEY]"
+    },
+    "thes": {
+        "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+        "uri": "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/[TERM]?key=[KEY]"
+    }
+}
